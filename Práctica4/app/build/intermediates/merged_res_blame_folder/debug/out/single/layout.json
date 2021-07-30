@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\app\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_start.xml",
+        "source": "D:\\app\\android-basics-kotlin-cupcake-app-main\\app\\src\\main\\res\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "D:\\app\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_summary.xml",
+        "source": "D:\\app\\android-basics-kotlin-cupcake-app-main\\app\\src\\main\\res\\layout\\fragment_summary.xml"
+    },
+    {
+        "merged": "D:\\app\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_pickup.xml",
+        "source": "D:\\app\\android-basics-kotlin-cupcake-app-main\\app\\src\\main\\res\\layout\\fragment_pickup.xml"
+    },
+    {
+        "merged": "D:\\app\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_flavor.xml",
+        "source": "D:\\app\\android-basics-kotlin-cupcake-app-main\\app\\src\\main\\res\\layout\\fragment_flavor.xml"
+    }
+]
