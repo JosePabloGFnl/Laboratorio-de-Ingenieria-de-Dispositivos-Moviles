@@ -1,0 +1,35 @@
+com/example/practica4/databinding/FragmentFlavorBindingImpl.java
+ com.example.practica4.databinding.FragmentFlavorBindingImpl
+com/example/practica4/databinding/FragmentPickupBinding.java
+ com.example.practica4.databinding.FragmentPickupBinding
+com/example/practica4/BR.java
+ com.example.practica4.BR
+com/example/practica4/BuildConfig.java
+ com.example.practica4.BuildConfig
+com/example/practica4/generated/callback/OnClickListener.java
+ com.example.practica4.generated.callback.OnClickListener
+ com.example.practica4.generated.callback.OnClickListener$Listener
+com/example/practica4/databinding/FragmentFlavorBinding.java
+ com.example.practica4.databinding.FragmentFlavorBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/practica4/databinding/FragmentSummaryBindingImpl.java
+ com.example.practica4.databinding.FragmentSummaryBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/practica4/DataBindingTriggerClass.java
+ com.example.practica4.DataBindingTriggerClass
+com/example/practica4/databinding/FragmentStartBinding.java
+ com.example.practica4.databinding.FragmentStartBinding
+com/example/practica4/databinding/FragmentStartBindingImpl.java
+ com.example.practica4.databinding.FragmentStartBindingImpl
+com/example/practica4/databinding/FragmentPickupBindingImpl.java
+ com.example.practica4.databinding.FragmentPickupBindingImpl
+com/example/practica4/DataBinderMapperImpl.java
+ com.example.practica4.DataBinderMapperImpl
+ com.example.practica4.DataBinderMapperImpl$InnerBrLookup
+ com.example.practica4.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/practica4/databinding/FragmentSummaryBinding.java
+ com.example.practica4.databinding.FragmentSummaryBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
