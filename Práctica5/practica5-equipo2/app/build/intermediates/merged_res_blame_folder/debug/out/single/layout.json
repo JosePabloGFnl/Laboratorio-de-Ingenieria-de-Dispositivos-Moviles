@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ProyectoAndroidStudio\\practica5-equipo2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\grid_view_item.xml",
+        "source": "D:\\ProyectoAndroidStudio\\practica5-equipo2\\app\\src\\main\\res\\layout\\grid_view_item.xml"
+    },
+    {
+        "merged": "D:\\ProyectoAndroidStudio\\practica5-equipo2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_overview.xml",
+        "source": "D:\\ProyectoAndroidStudio\\practica5-equipo2\\app\\src\\main\\res\\layout\\fragment_overview.xml"
+    }
+]
